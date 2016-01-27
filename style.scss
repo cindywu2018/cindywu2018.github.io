@@ -108,7 +108,12 @@ strong, b {
 
 img {
   max-width: 100%;
-  display: block;
+  display: block; 
+}
+
+img.resize{
+    width:600px; 
+    height: 800px;
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -182,10 +187,7 @@ img {
     display: block;
   }
   
-  img.resize{
-    width:600px; 
-    height: 800px;
-  }
+
 }
 
 .site-info {
