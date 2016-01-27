@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Computer Science Undergraduate student at The University of Texas at Austin
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+- I love action and science fiction movies, tennis, a good prank, and sarcasm. 
+- I am a fun person, I promise!
