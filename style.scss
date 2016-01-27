@@ -178,18 +178,16 @@ img {
   }
 
   img {
-    margin-bottom: -25px; 
     border-radius: 5px;
-    vertical-align: bottom;
     display: block;
   }
   
-  img.resize {
-    width: 600px; 
-    height: 800px;
-    max-width: 100px;
-    max-height: 1px;
-  }
+ // img.resize {
+ //   width: 600px; 
+ //   height: 800px;
+ //   max-width: 100px;
+ //   max-height: 1px;
+ // }
 }
 
 .site-info {
