@@ -9,8 +9,7 @@ name: CS371p Spring 2016:Songting Wu
 description: OOP Weekly Blog 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAARNAAAAJDIxZDk3Y2RhLTJiM2ItNGE0OC04MjdhLWQ1MzRlN2ZkZTk2MQ.jpg
-
+avatar: ![](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAARNAAAAJDIxZDk3Y2RhLTJiM2ItNGE0OC04MjdhLWQ1MzRlN2ZkZTk2MQ.jpg =600x800)
 #
 # Flags below are optional
 #
