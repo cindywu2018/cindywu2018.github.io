@@ -178,6 +178,13 @@ img {
   img {
     border-radius: 5px;
   }
+  
+  img.resize{
+    width:600px; 
+    height: 800px;
+    max-width: 600px; 
+    max-height: 800px;
+}
 }
 
 .site-info {
