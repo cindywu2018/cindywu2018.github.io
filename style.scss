@@ -178,13 +178,14 @@ img {
   img {
     border-radius: 5px;
     vertical-align: bottom;
+    display: block;
   }
   
   img.resize {
-    width:600px; 
+    width: 600px; 
     height: 800px;
-    max-width:600px;
-    height:500px;
+    max-width: 600px;
+    height: 100px;
   }
 }
 
