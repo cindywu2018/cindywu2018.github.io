@@ -22,6 +22,6 @@ This class is really worthwhile taking and beneficial for several reasons. First
 # Tip of the week:
 It's the end of the semester, don't you just feel like you ran out of fuel but still have to keep going like:
 
-![Alt text](../images/0%.jpg?raw=true "Zero Percent Fuel")
+![Alt text](https://github.com/cindywu2018/cindywu2018.github.io/blob/master/images/0%25.jpg?raw=true "Zero Percent Fuel")
 
 That is a picture I took of my computer this morning. Clearly my poor device is super exhuasted, but luckily it's being charged right now. The moral of the picture is to remind everyone to recharge yourself and get not too hung up on the fact that you are exhuasted. You can achieve more than you imagine if you focus on the goal and ask support from others around you instead of focusing on your tiredness.
